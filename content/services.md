@@ -24,7 +24,7 @@ title = "Services"
 
 **Roll-off Pricing**
 
-| Length | 10yd<br>aaa |
+| Length | 10yd<br> |
 | --- | --- |
 | 2 Weeks | 200 + 70 / ton |
 
